@@ -3,7 +3,7 @@ import altair as alt
 import numpy as np
 import pandas as pd
 
-data=pd.read_csv('C:\\Users\\sucha\\Downloads\\va\\HR_Data.csv')
+data=pd.read_csv('HR_Data.csv')
 st.write(data)
 
 
